@@ -4,3 +4,4 @@ build/
 *.so
 *.out
 *.exe
+.github/workflows/
